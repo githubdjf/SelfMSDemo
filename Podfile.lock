@@ -1,0 +1,23 @@
+PODS:
+  - JSONModel (1.2.0)
+  - Masonry (1.0.2)
+  - TPKeyboardAvoiding (1.3)
+  - YYKit (1.0.9):
+    - YYKit/no-arc (= 1.0.9)
+  - YYKit/no-arc (1.0.9)
+
+DEPENDENCIES:
+  - JSONModel (~> 1.2.0)
+  - Masonry
+  - TPKeyboardAvoiding (~> 1.3)
+  - YYKit
+
+SPEC CHECKSUMS:
+  JSONModel: 12523685c4b623553ccf844bbbf7007624317b2c
+  Masonry: 7c429b56da9d4ee0bbb3ed77a5ea710d6a5df39e
+  TPKeyboardAvoiding: a5138f318c06fb3e151f886e18ce4a72695d9cbe
+  YYKit: 7cda43304a8dc3696c449041e2cb3107b4e236e7
+
+PODFILE CHECKSUM: 1e41ac65253e9787f7da8a2d111de8d479c2460b
+
+COCOAPODS: 1.1.1
